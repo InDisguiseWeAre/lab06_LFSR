@@ -1,0 +1,12 @@
+c:\users\mds45\documents\visual studio 2015\Projects\lfsr\lfsr\bin\Debug\lfsr.exe.config
+c:\users\mds45\documents\visual studio 2015\Projects\lfsr\lfsr\bin\Debug\lfsr.exe
+c:\users\mds45\documents\visual studio 2015\Projects\lfsr\lfsr\bin\Debug\lfsr.pdb
+c:\users\mds45\documents\visual studio 2015\Projects\lfsr\lfsr\obj\Debug\lfsr.csprojResolveAssemblyReference.cache
+c:\users\mds45\documents\visual studio 2015\Projects\lfsr\lfsr\obj\Debug\lfsr.exe
+c:\users\mds45\documents\visual studio 2015\Projects\lfsr\lfsr\obj\Debug\lfsr.pdb
+C:\Users\72ars\Desktop\КМЗИ\lfsr\lfsr\bin\Debug\lfsr.exe.config
+C:\Users\72ars\Desktop\КМЗИ\lfsr\lfsr\bin\Debug\lfsr.exe
+C:\Users\72ars\Desktop\КМЗИ\lfsr\lfsr\bin\Debug\lfsr.pdb
+C:\Users\72ars\Desktop\КМЗИ\lfsr\lfsr\obj\Debug\lfsr.csprojResolveAssemblyReference.cache
+C:\Users\72ars\Desktop\КМЗИ\lfsr\lfsr\obj\Debug\lfsr.exe
+C:\Users\72ars\Desktop\КМЗИ\lfsr\lfsr\obj\Debug\lfsr.pdb
